@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="852c7e0d-5328-4fc5-b67e-9dfb22dd6dd2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/tests/genomic-marketplace.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tests/genomic-marketplace.test.ts" afterDir="false" />
